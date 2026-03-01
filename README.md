@@ -154,7 +154,7 @@ SOFTWARE.
 
 <div align="center">
   
-***Made with ❤️ by Lawiis**
+**Made with ❤️ by Lawiis**
 
 **⭐ Star this repo if you find it useful! ⭐**
 
